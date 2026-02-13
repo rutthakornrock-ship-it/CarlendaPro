@@ -1,0 +1,8 @@
+{
+  "name": "Smart Responsive Calendar Pro",
+  "description": "A high-performance, cloud-synced calendar application with Google Gmail integration, Google Sheets database, and multi-device support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
